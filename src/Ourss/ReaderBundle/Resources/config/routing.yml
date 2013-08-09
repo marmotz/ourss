@@ -1,0 +1,11 @@
+ourss_reader:
+    pattern:  /
+    defaults: { _controller: OurssReaderBundle:Default:index }
+
+ourss_reader_homepage:
+    pattern:  /reader/
+    defaults: { _controller: OurssReaderBundle:Reader:index }
+
+ourss_reader_all:
+    pattern:  /reader/all
+    defaults: { _controller: OurssReaderBundle:Reader:all }

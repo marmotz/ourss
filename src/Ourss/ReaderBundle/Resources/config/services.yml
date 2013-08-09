@@ -1,0 +1,9 @@
+parameters:
+#    ourss_reader.example.class: Ourss\ReaderBundle\Example
+
+services:
+    # kernel.listener.initialization_check:
+    #     class     : Ourss\ReaderBundle\Listener\InitializationCheckListener
+    #     arguments : [ @router ]
+    #     tags      :
+    #         - { name: kernel.event_listener, event: kernel.request, method: onKernelRequest }

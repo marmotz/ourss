@@ -1,0 +1,3 @@
+ourss_install_homepage:
+    pattern:  /install
+    defaults: { _controller: OurssInstallBundle:Default:index }

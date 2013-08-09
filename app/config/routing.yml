@@ -1,0 +1,8 @@
+ourss_install:
+    resource: "@OurssInstallBundle/Resources/config/routing.yml"
+    prefix:   /
+
+ourss_reader:
+    resource: "@OurssReaderBundle/Resources/config/routing.yml"
+    prefix:   /
+
